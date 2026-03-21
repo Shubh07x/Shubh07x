@@ -15,19 +15,11 @@
 
 ---
 
-## 👨‍💻 About Me
+
 
 ```python
-class ShubhamPotdar:
-    def __init__(self):
-        self.name        = "Shubham Dattatray Potdar"
-        self.degree      = "B.Tech CSE @ D.Y. Patil College of Engg, Kolhapur"
-        self.focus       = ["AI/ML", "Edge AI", "RAG Systems", "Computer Vision"]
-        self.published   = "IJCRT Apr 2025 — AI Assistive System (IJCRT2504094)"
-        self.hardware    = "NVIDIA Jetson Nano"
-        self.languages   = ["Python", "Dart", "C"]
-        self.currently   = "Building AI systems that solve real-world problems"
-        self.fun_fact    = "My AI helps blind people see 👁️ and farmers grow smarter 🌾"
+
+
 ```
 
 ---
