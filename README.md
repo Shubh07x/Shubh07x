@@ -33,7 +33,6 @@ Real-time AI on **NVIDIA Jetson Nano** that speaks what it sees — fully offlin
 - 📖 OCR text-to-speech reading
 - 💰 Indian currency detection
 - 🗣️ Bilingual TTS — English + Marathi
-- ☁️ Zero cloud at inference time
 
 [![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Shubh07x/AI-Powered-Assistive-System-for-the-Visually-Impaired-People)
 [![Read Paper](https://img.shields.io/badge/IJCRT-Read%20Paper-orange?style=flat-square)](https://ijcrt.org/viewfull.php?&p_id=IJCRT2504094)
@@ -49,7 +48,6 @@ Real-time AI on **NVIDIA Jetson Nano** that speaks what it sees — fully offlin
 - 🤖 IBM Granite LLM + RAG pipeline
 - 🌐 Hindi / Marathi / English support
 - ✅ CI/CD — 6/6 unit tests passing
-- 🛡️ Zero hallucination via Vector Index
 - 👨‍🌾 Built for India's small farmers
 - 📦 Modular Python — agent.py + rag_pipeline.py
 
